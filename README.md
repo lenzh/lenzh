@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lenzh)
 
 # About Me
 - 🔭 I’m currently working on - [ArkRP](https://discord.gg/k5fCnjwftj) and [Project Sloth](https://github.com/Project-Sloth)
