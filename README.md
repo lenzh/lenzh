@@ -5,7 +5,7 @@
 
 
 # About Me
-- 🔭 I’m currently working on - [ArkRP](https://discord.gg/Vmx4xT5A) and [Project Sloth](https://github.com/Project-Sloth)
+- 🔭 I’m currently working on - [ArkRP](https://discord.gg/k5fCnjwftj) and [Project Sloth](https://github.com/Project-Sloth)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lenzh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
