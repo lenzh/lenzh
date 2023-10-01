@@ -6,7 +6,12 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lenzh)
 
 # About Me
-- 🔭 I’m currently working on - [ArkRP](https://discord.gg/k5fCnjwftj) and [Project Sloth](https://github.com/Project-Sloth)
+- 🔭 I’m currently working on
+<img src="https://i.imgur.com/EynJwJ5.gif"/>
+
+- [MythosRP](https://discord.gg/k5fCnjwftj)
+  
+- [Project Sloth](https://github.com/Project-Sloth)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lenzh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
