@@ -14,7 +14,8 @@
 - [Project Sloth](https://github.com/Project-Sloth)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lenzh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenzh&show_icons=true&theme=tokyonight)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/139466122171908096)](https://discord.com/users/139466122171908096)
+<img src="https://github-profile-trophy.vercel.app/?username=lenzh&theme=juicyfresh&no-bg=true" />
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/mXc9p4nBw9)](https://discord.gg/mXc9p4nBw9) 
