@@ -17,4 +17,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenzh&show_icons=true&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/lenzh)
