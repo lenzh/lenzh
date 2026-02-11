@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on
 <img src="https://i.imgur.com/EynJwJ5.gif"/>
 
-- [MythosRP](https://discord.gg/k5fCnjwftj)
   
 - [Project Sloth](https://github.com/Project-Sloth)
 
